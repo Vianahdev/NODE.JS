@@ -1,6 +1,6 @@
 let fs = require('fs');
 
-fs.unlink("HelloWord.txt", function (error) {
+fs.unlink("LoremIpsun.txt", (error)=>{
   if (error) {
     throw error
   }

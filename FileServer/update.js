@@ -1,9 +1,9 @@
 let fs = require('fs');
 
-fs.appendFile("HelloWord.txt", " - Olá Brasil", function (error) {
+fs.appendFile("LoremIpsun.txt", " - Olá Brasil", (error) => {
   if (error) {
     throw error
   }
 
-  console.log("Arquivo modificado com sucesso.")
+  console.log("Arquivo modificado com sucesso.");
 })
