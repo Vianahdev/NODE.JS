@@ -1,4 +1,3 @@
-let area = require('./Calc_Area');
-let opeBasicas = require('./Calc_Op');
+let opeBasic = require('./Calc_Op');
 
-module.exports = {...area, ...opeBasicas};
+module.exports = {...opeBasic}
