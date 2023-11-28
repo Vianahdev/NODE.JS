@@ -154,5 +154,19 @@ A função `readFile()` e utilizada para ler arquivos no `NODE.JS`, para utiliza
     });
 ```
 
+<br>
+
+# PACKAGE - NODE.JS
+
+Um pacote e uma árvore de pastas descrita por um `package.jason`.
+
+```
+
+```
+
+# 
+
+
+
 
 
